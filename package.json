@@ -9,5 +9,8 @@
   "dependencies": {
     "gridsome": "^0.7.0",
     "vuetify": "^2.1.14"
+  },
+  "devDependencies": {
+    "webpack-node-externals": "^1.7.2"
   }
 }
